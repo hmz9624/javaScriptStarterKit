@@ -37,7 +37,7 @@ console.log("</ul>")
 console.log(konutKredileri)
 console.log("*************************")
 var deg = 5; {
-    let deg = 4;
+    var deg = 4;
     console.log(deg)
 }
 
