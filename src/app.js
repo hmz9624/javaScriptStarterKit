@@ -38,7 +38,8 @@ console.log(konutKredileri)
 console.log("*************************")
 var deg = 5; {
     var deg = 4;
-    console.log(deg)
-}da
+    console.log(deg + "aaa")
+}
+da
 
 console.log(deg)
